@@ -1,3 +1,4 @@
 pierwsza linijka
 druga linijka
 trzeci wiersz
+czwarty wiersz
